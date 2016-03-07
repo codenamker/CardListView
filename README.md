@@ -1,5 +1,5 @@
 # CardListView
 自定義CardListView
 
-![image](https://j.gifs.com/Nk7w92.gif)   
+![image](https://github.com/codenamker/CardListView/blob/master/KBxxuaS.-.Imgur.gif)   
 
